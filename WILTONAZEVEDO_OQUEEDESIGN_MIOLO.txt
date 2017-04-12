@@ -424,6 +424,7 @@ Começamos a notar que pensar o *design* não
 se restringe aos objetos utilitários ou à arquitetura, mas abrange a palavra escrita, como você
 pode perceber a cada abertura de capítulo deste
 livro.
+
 Para ser comunicada, a palavra deve necessariamente partir de um alfabeto, e estão contidos nesse alfabeto os desenhos de letras, seu
 estilo, a forma da letra. Os primeiros alfabetos
 que apareceram no Ocidente surgiram em civilizações do Mediterrâneo. Para cada letra havia
@@ -432,14 +433,13 @@ Eram simples figuras destinadas a representar a
 escrita. No Egito antigo, por exemplo, a letra “A”
 era representada por uma ave. O tipo móvel, que
 era uma maneira de escrever com pequenos pedaços de chumbo, inventado por Gutenberg, em
-1454, na Alemanha, facilitou a entrada da escrita para o mundo da reprodução em série. Começava-se a pensar pela primeira vez na possibili-
+1454, na Alemanha, facilitou a entrada da escrita para o mundo da reprodução em série. Começava-se a pensar pela primeira vez na possibilidade de diagramar uma página. Desde os primeiros tipos gráficos de chumbo, a letra já ganhava um caráter de projeto.
 
-O que é *design*
-
-dade de diagramar uma página. Desde os primeiros tipos gráficos de chumbo, a letra já ganhava um caráter de projeto.
 Para isso surge o *design* gráfico, que é a parte de um projeto que se refere ao material a ser
 impresso.
+
 Vamos ver então como acontecem alguns desenhos de letra.
+
 A princípio, o homem começou copiando livros, trabalho feito por copistas – a única forma
 de reproduzir um livro. Com a letra escrita a mão,
 vamos ter algumas influências quanto ao desenho de tipo – vamos ter tipos com traços grossos, finos, finalização das hastes das letras atravessando extremidades que fazem a ligação de
@@ -448,92 +448,76 @@ curvos nas extremidades das hastes, tipos com
 hastes uniformes, sem serifa, ou seja, conforme
 os tempos iam exigindo melhores sistemas de
 reprodução, o tipo ia exigindo um novo *design*
-
-33
-
-34
-
-Wilton Azevedo
-
 para a sua formação.
-Com o surgimento da impressão off set, observamos uma reformulação no sistema de reprodução da escrita que facilitou a reprodução
+
+Com o surgimento da impressão *off set*, observamos uma reformulação no sistema de reprodução da escrita que facilitou a reprodução
 em massa. Enquanto antigamente uma matriz
-de chumbo era usada para reprodução, no off
-set o sistema é fotográfico, projetando cada peça
+de chumbo era usada para reprodução, no *off
+set* o sistema é fotográfico, projetando cada peça
 impressa como se estivesse fazendo uma cadeira ou construindo um prédio, utilizando-se assim da tecnologia disponível.
+
 Novamente, um dos grandes empreendedores dessa reformulação da escrita foi a escola
 Bauhaus, que trabalharia o *design* dos tipos com
 uma inovação no sentido da legibilidade.
+
 Só para se ter uma ideia, levantou-se pela primeira vez a seguinte questão: por que no mesmo alfabeto existem o “A” maiúsculo e o “a”
 minúsculo (ou seja, caixa alta e caixa baixa)?
+
 A Bauhaus cria então o tipo Universal, que
 era constituído apenas por letras minúsculas,
-
-O que é Design
-
 inclusive para início de frase e nomes próprios.
 Com isto surge o *design* de tipos Bauhaus.
+
 Dois sistemas vieram facilitar o trabalho do
 *designer* gráfico quanto à criação e produção de
 um projeto impresso – uma revista, cartaz, peças publicitárias, jornal ou qualquer material de
 reprodução -: a fotocomposição e a fotoletra.
+
 Estamos falando até agora que o *design* está
 ligado diretamente a um projeto ou a um desenho industrial. Hoje, entretanto, uma página impressa é tratada como um projeto de desenho
-industrial, e a fotocomposição veio permitir ousadias para o designer gráfico, que pode agora
+industrial, e a fotocomposição veio permitir ousadias para o *designer* gráfico, que pode agora
 aproximar as letras, diminuído o espaço entre
 letras, sobrepô-Ias, tudo dependendo do projeto que se quer como produto final (veja a
 diagramação deste livro para entender o que é
 projeto gráfico).
+
 A fotoletra tornou possível ampliar a letra em
 sua altura (corpo), o que veio facilitar o trabalho
-
-35
-
-36
-
-Wilton Azevedo
-
-do designer. Todo aquele desenho que antigamente era feito a mão livre e mais tarde moldado
+do *designer*. Todo aquele desenho que antigamente era feito a mão livre e mais tarde moldado
 no chumbo, agora é feito com sofisticados computadores, podendo variar as hastes dos tipos em
 grossura, em largura, expandindo e condensando
-a letra ou inclinando-a, obtendo-se o italic.
-O ponto de partida para um designer gráfico
+a letra ou inclinando-a, obtendo-se o *italic*.
+
+O ponto de partida para um *designer* gráfico
 começar a diagramar uma peça é saber o tipo
 de letra que ele necessita, e se sua leitura dentro daqueles moldes vai ser possível ou não,
 variando o tamanho conforme a finalidade que
 o tipo terá na peça impressa (como é o caso
 deste livro).
+
 Uma das vantagens deste novo sistema fotográfico para variação de tipos consiste em poder criar novos *designs* para novos alfabetos,
 levando em consideração os recursos que a
 máquina pode oferecer. Um exemplo disso é o
-trabalho do designer americano Herb Lubalin,
-que criou um tipo bastante conhecido – o Avant-
-
-O que é Design
-
-Garde. E um tipo extremamente fino em suas
+trabalho do *designer* americano Herb Lubalin,
+que criou um tipo bastante conhecido – o *Avant-Garde*. 
+E um tipo extremamente fino em suas
 hastes, que só seria possível reproduzir através
 de processos fotográficos.
+
 A revista que antes era aberta para que se
 lessem seus textos, agora cria uma noção de
 design gráfico, fazendo com que o público não
 apenas leia os textos mas leia as imagens e até
 mesmo certos espaços que são deixados em
-branco pelo designer gráfico. Tudo em um meio
+branco pelo *designer* gráfico. Tudo em um meio
 impresso é informação.
 
-Logotipo: o *design* da escrita
-Com a industrialização surgem na sociedade
+### Logotipo: o *design* da escrita
+
+Com a industrialização, surgem na sociedade
 as primeiras indústrias privadas. Essas indústrias
 pertenciam a pessoas poderosas que faziam parte de uma elite social e econômica dentro de um
 quadro político que começava a se industrializar.
-
-37
-
-38
-
-Wilton Azevedo
-
 A tradição da família era muito maior que a tradição da indústria, já que esta estava nascendo.
 Sendo assim, usava-se o nome da família na
 empresa para que ela pudesse ser reconhecida.
@@ -544,27 +528,20 @@ eram uma adaptação do brasão da família para
 significar a indústria. Sem a consciência de desenho industrial, essa marca tinha tendência a contar a história da fábrica através de vários desenhos contidos em um só emblema. Pode-se dizer
 que foi assim que surgiram as primeiras marcas
 de empresas – que chamamos hoje de logotipo.
+
 Havia logotipos que tinham que expressar o
 que aquela fábrica produzia. No começo, eram
-
-O que é Design
-
 desenhadas imagens de chaminés de tijolos soltando fumaça, uma grande engrenagem sobreposta que significava a era mecanizada e um capacete com asas de Minerva, a deusa da engenharia. E para que não faltasse nada, todos esses desenhos eram cercados por folhas de louro.
+
 Se entendermos que a indústria trouxe a produção dos objetos em série, temos que entender que havia necessidade da simplificação dessas formas para que pudessem ser reproduzidas
 em qualquer meio gráfico, ou seja, o logotipo
 haveria de se transformar em um símbolo.
+
 O logotipo precisava institucionalizar o conceito da indústria através de repetições em
 anúncios, e, mesmo mais tarde, nos projetos
-de marketing, esse símbolo passaria a ser a ideia
-visual da empresa. Para isso, o designer gráfico teve que começar a trabalhar junto ao departamento de marketing da empresa, encarregado de pesquisar qual público deve ser atin-
+de *marketing*, esse símbolo passaria a ser a ideia
+visual da empresa. Para isso, o *designer* gráfico teve que começar a trabalhar junto ao departamento de *marketing* da empresa, encarregado de pesquisar qual público deve ser atingido por aquele logotipo.
 
-39
-
-40
-
-Wilton Azevedo
-
-gido por aquele logotipo.
 Mas nem sempre um símbolo tem a finalidade que queremos. Se pegarmos como exemplo
 o logotipo do nazismo (suástica) e olharmos para
 ele hoje, reconheceremos nesse símbolo toda a
@@ -572,45 +549,39 @@ desgraça a que o mundo se submeteu diante de
 um poder militar, mas o símbolo do nazismo para
 os alemães na época da guerra significava algo
 diverso. Era a esperança de surgir uma nova Alemanha com ideias revolucionárias.
-Se a intenção primeira do designer gráfico
+
+Se a intenção primeira do *designer* gráfico
 que projetou o símbolo do nazismo fosse realçar a raça ariana, o projeto não conseguiu atingir essa finalidade.
+
 Um logotipo já nasce como um símbolo, e é
-essa consciência que o designer deve ter. Ele tem
+essa consciência que o *designer* deve ter. Ele tem
 que dizer às pessoas o que elas já sabem através
 de um ato gráfico, podendo ser esse ato tanto
 um desenho geométrico quanto um desenho
 gestual: o logotipo da Rede Globo é um círculo
-dentro de um círculo, e o das Diretas-Já, duas pin-
-
-O que é Design
-
-celadas lado a lado. E muitas vezes a própria palavra desenhada, um logotipo que parte de uma
+dentro de um círculo, e o das Diretas-Já, duas pinceladas lado a lado. 
+E muitas vezes a própria palavra desenhada, um logotipo que parte de uma
 palavra que é o primeiro nome da empresa. O
 designer gráfico dá à palavra um caráter visual, e
 com isso não só a palavra passa a designar o símbolo da empresa, mas a forma como ela é disposta no papel (ou papéis da empresa, como cartões de visita, envelopes, papéis de carta, etc.).
-Para que o designer gráfico possa estruturar
+
+Para que o *designer* gráfico possa estruturar
 seu trabalho de um modo coerente, o sistema
 fotográfico para reprodução conhecido como
 fotolito veio tornar-se ponto de apoio. Através
 dele, seu trabalho foi facilitado, fazendo com que
-o designer gráfico trabalhasse com colagens.
-Essa montagem é conhecida como paste-up.
+o *designer* gráfico trabalhasse com colagens.
+
+Essa montagem é conhecida como *paste-up*.
 O produto final impresso pode então ser melhor
 executado desde a tipologia (o desenho de tipos) até a diagramação (a maneira de utilizar o
 espaço para dispor textos e imagens). Um exemplo disso é esta página que você está lendo.
 
-41
+\imagem grande 42
+Estudos preliminares de Herbert Bayer para o Alfabeto Universal, 1925.
 
-42
-
-Wilton Azevedo
-
-Estudos preliminares de Herbert Bayer para o
-Alfabeto Universal, 1925.
-
-44
-
-Wilton Azevedo
+\imagem grande 43
+## Ruptura com o passado
 
 Garamond 49, corpo 12, entrelinha 13, condensado
 
@@ -619,46 +590,45 @@ descobrir o novo. O século XX tem como característica a subversão no meio art
 materiais. Surge o conceito de que o homem moderno precisaria
 estar cercado de objetos funcionais, a ideia de forma e função já
 era uma necessidade.
+
 Surge uma nova estética para se morar e estar com os objetos
 utilitários do dia-a-dia. A ideia de casa é pensada não só no sentido estético, mas também na sua funcionalidade. O americano
 Frank Lloyd Wright (1869-1959) é um dos principais arquitetos a
 pensar o modo de vida do homem moderno.
+
 O moderno está ligado à ideia de novo no sentido de pesquisa
 com novos materiais, a nova consciência da civilização contemporânea que vive cercada pela máquina em grandes centros urbanos. E nessa mesma época que surgem as mais diversas correntes
 artísticas, entre elas a que mais iria influenciar o pensamento
 quanto à construção dos objetos: o neoplasticismo. Com este movimento tenta-se uma ruptura com a pintura de observação, ou
 seja, o objeto da pintura passa a ser a própria pintura.
 
-O que é Design
-
 É com linhas retas e cores primárias que o grupo De Stijl, de
 1917, encabeçado por van Doesburg e Piet Mondrian, iria traçar
 um plano de grafismo radical, usado simultaneamente pela escola Bauhaus.
+
 Essas composições com linhas retas e cores primárias acabam
 se estendendo inclusive aos móveis, e o neoplasticismo é representado escultoricamente pela cadeira Red and Blue, de Rietveld.
+
 Mas a necessidade de ruptura com o passado acelera os processos de elaboração artística. O homem moderno é diferente do
 homem dos séculos anteriores, porque vive a era da indústria, do
 conhecimento científico e do pensamento voltado para a tecnologia.
+
 A busca da funcionalidade encontra formas e funções que
 se adaptam plenamente a uma estética que tenta questionar o
 mundo do a partir do zero.
+
 As experiências feitas com novos materiais, como o aço
 tubular e o couro, ajudaram a difundir a ideia da decomposição
 dinâmica, tendo como um dos maiores incentivadores desta
-ideia o arquiteto e designer escocês Charles Rennie Mackintosh
-(1868-1928), na escola de Glasgow, que, influenciado pela Art
-
-45
-
-46
-
-Wilton Azevedo
-
-Nouveau, mas com ideias ligadas a um *design* de linhas retas,
+ideia o arquiteto e *designer* escocês Charles Rennie Mackintosh
+(1868-1928), na escola de Glasgow, que, influenciado pela *Art Nouveau*, 
+mas com ideias ligadas a um *design* de linhas retas,
 cria a cadeira Mackintosh.
+
 Para ele a luz é parte importante dos objetos, já que força sua
 passagem através das cadeiras realçando a utilização do espaço
 em sua criação estrutural.
+
 Não se pode descartar que o futurismo foi um dos movimentos
 que mais contribuíram para colocar o século XX no lugar certo.
 Com seu manifesto, em 20.2.1909, o mundo é colocado como um
@@ -666,131 +636,120 @@ criador de novas belezas, a beleza de um mundo mais rápido e
 com ele a ideia de velocidade, o barulho dos carros correndo, a
 agitação das multidões... Pode-se dizer que é a partir desse momento que a Itália volta a assumir um papel importante na ideia
 de moderno.
+
 A cidade era o grande problema desta época.
+
 A urbanização passa a ser um fator importante quando se
 pensa o futuro. Tony Garnier, arquiteto e engenheiro francês
 (1869-1948), foi um dos primeiros a pensar o problema projetando a cidade industrial, um ponto de partida para encarar a
 sociedade móvel, em que houvesse integração entre natureza e
-
-O que é Design
-
 tecnologia. A ideia desse trabalho era revolucionária por conter
 em um mesmo projeto estação ferroviária, cais, casas adequadas a trabalhadores e represas para fornecimento de energia elétrica. Era a tentativa de viabilizar uma cidade que partilhasse
 seu espaço com a indústria.
+
 É através da preocupação de integração trabalho e lazer que
 o mundo moderno passa a desenvolver uma nova concepção de
-design urbano para viabilizar o tempo gasto no trabalho. Os
+*design* urbano para viabilizar o tempo gasto no trabalho. Os
 objetos utilitários são menos ornamentais e passam para a linguagem da funcionalidade, porque o tempo passa a ser escasso.
 Com o fechamento da Bauhaus e o fortalecimento de Stalin na
 União Soviética, há uma grande evasão de artistas para os Estados Unidos, país que com o final da Segunda Guerra (19391945) avança nas pesquisas de novos materiais para os objetos
 pós-guerra.
+
 Na década de 50 há, por parte dos americanos, uma forte tendência a trabalhar com as formas curvas, parabólicas, longas e
-baixas, com ausência de ornamentos (flamboyants). Estas criações eram possíveis, pois os materiais que até então tinham sido
-
-47
-
-48
-
-Wilton Azevedo
-
+baixas, com ausência de ornamentos (*flamboyants*). Estas criações eram possíveis, pois os materiais que até então tinham sido
 usados na produção de objetos requisitados na guerra poderiam
 abrir espaço para o consumo de massa.
-A borracha, o acrílico, a resina de poliéster e o fiber-glass já
+
+A borracha, o acrílico, a resina de poliéster e o *fiber-glass* já
 eram pesquisados durante a guerra, e isso acabou por tornar os
 móveis mais leves, podendo com isso ser reciclados.
-A palavra moderno já faz parte da sociedade. Tudo que parece
+
+A palavra *moderno* já faz parte da sociedade. Tudo que parece
 novo é moderno: um novo que contribui para um estilo de vida.
+
 Com a influência do abstracionismo, o *design* americano galga a posição de água divisória entre os períodos da geometria
 estrutural e das formas orgânicas.
+
 Os primeiros móveis chamados de modernos na América
 tinham um *design* de beiradas arredondadas chamados de objetos biomorfos, ou formas baseadas em organismos biológicos que não representavam nenhum organismo específico.
 Essas formas arredondadas eram um dos primeiros indícios do
 grito contra o *design* racionalista da Bauhaus. Eram formas
 assimétricas, em nada parecidas com a linguagem dos módulos, como os sofás com formato de ameba com os pés totalmente arredondados.
 
-O que é Design
-
-Os designers americanos da década de 50 Charles Eames e
+Os *designers* americanos da década de 50 Charles Eames e
 sua esposa Ray foram os que contribuíram para a pesquisa de
 moldes em madeira laminada. Suas cadeiras de arame trançado trouxeram ao *design* a viabilização do arame no dia-a-dia
 das pessoas, mas sua verdadeira revolução foi obtida através das
-primeiras cadeiras de fiber-glass em formato de concha e a
+primeiras cadeiras de *fiber-glass* em formato de concha e a
 mesinha de canto.
+
 A cadeira como objeto tornou-se um dos principais motivos
-de exploração pelos designers modernos. Todo e qualquer tipo de
+de exploração pelos *designers* modernos. Todo e qualquer tipo de
 função no sentar, com relação a material e formato, foi explorado como uma verdadeira disputa através das formas
 simplificadas, criando com isso novas possibilidades de apreendermos a forma.
+
 O ato de sentar é uma invenção humana. A estética do descansar tem papel importante na vida moderna, uma vez que essas
 formas poderiam ser usadas como banco ou mesa. O ponto alto
 das pesquisas da modernidade americana, entretanto, está no sofá
-que George Nelson projetou em formato de marshmallow, feito de
-couro e formado por dezoito esferas com suporte de aço. É impor-
-
-49
-
-50
-
-Wilton Azevedo
-
-tante ressaltar que este foi um dos primeiros móveis a utilizar-se
+que George Nelson projetou em formato de *marshmallow*, feito de
+couro e formado por dezoito esferas com suporte de aço. É importante ressaltar 
+que este foi um dos primeiros móveis a utilizar-se
 da oposição de cor (como laranja, rosa e púrpura), influenciando
 assim o que mais tarde chamaríamos de pós-moderno.
+
 É na metade do século, entretanto, que surge a síntese das
 cidades-jardins e da cidade metropolitana, o que veio ajudar a
 desenvolver os grandes centros metropolitanos.
+
 E com a chegada de Mies van der Rohe nos Estados Unidos,
 depois de fechada a Bauhaus, em 10 de agosto de 1933, que Chicago se enfeita de arranha-céus. Com uma visão mais radical, Mies
 desenvolveu entre os arquitetos americanos o conceito do uso na
 construção de arranha-céus, cujas fachadas de vidro eram de fundamental importância.
-Como podemos perceber, o *design*, tanto nos objetos utilitários como na arquitetura, assume papel fundamental na vida moderna. Cabe aos designers uma responsabilidade social, pois é de
+
+Como podemos perceber, o *design*, tanto nos objetos utilitários como na arquitetura, assume 
+papel fundamental na vida moderna. Cabe aos *designers* uma responsabilidade social, pois é de
 seus projetos que saem os objetos que usaremos na nossa vida
 diária. Isso acontece não só na busca de uma nova estética, mas
 principalmente procurando cumprir as finalidades práticas quanto
 ao uso do objeto utilitário.
 
-O que é Design
-
 Resumindo estas colocações: entre a racionalidade da Bauhaus
 e o expressionismo abstrato fica um enorme espaço estético – a
 distância entre a forma reta e modular e a forma orgânica. Foi
-sem dúvida essa brecha que excitou os designers nas décadas de 60
+sem dúvida essa brecha que excitou os *designers* nas décadas de 60
 a 80 a pensar os objetos da pós-modernidade.
 
-Influência no Brasil
+### Influência no Brasil
+
 O *design* brasileiro ligado ao mobiliário e objetos nasce a
 partir de um processo de importação, é uma assimilação de conceitos estéticos internacionais. Estavam em jogo os pensamentos
 europeu e americano, e era necessário que o Brasil pensasse também essa adaptação da funcionalidade em relação a uma
 ergonomia brasileira. (Ergonomia é o estudo da proporção humana em relação ao espaço ocupado pelo corpo.)
+
 Um dos primeiros a desenvolver conceitos modernos de *design*
 no Brasil, criando por assim dizer uma primeira experiência com
-
-51
-
-52
-
-Wilton Azevedo
-
-o desenho moderno brasileiro, foi o designer suíço John Grass,
+o desenho moderno brasileiro, foi o *designer* suíço John Grass,
 nascido em 1891, que chega ao Brasil em 1920, projetando poltronas com tubos de aço. O russo radicado em São Paulo Gregori
 Warchavchik, nascido em 1896, que chega ao Brasil em 1923,
 além de mobiliário, criou luminárias e a casa modernista, entre
 tantos projetos.
-Podemos dizer que um dos primeiros assentos modernos produzidos no Brasil para cadeiras foi feito pelo desenhista-pintor-escultor-designer Joaquim Tenreiro, que chegou de Portugal em 1928, o
+
+Podemos dizer que um dos primeiros assentos modernos produzidos no Brasil para cadeiras foi feito pelo desenhista-pintor-escultor-*designer* Joaquim Tenreiro, que chegou de Portugal em 1928, o
 qual tornou-se através do seu trabalho uma das figuras mais
 importantes do *design* brasileiro. Tenreiro cria a poltrona leve,
 na qual desenvolve estamparias com motivos umbandistas. Esse
 artista trabalha quase que exclusivamente com assento e encosto
 de palha, um material muito fácil de se encontrar no Brasil.
+
 Em São Paulo é criado o Estúdio Palma em 1948, por Pietro
 Maria Bardi e Lina Bo Bardi, executando os projetos das primeiras
 cadeiras dobráveis para serem empilhadas.
-A ideia do do-it-yourself (faça-você-mesmo) começou com a
+
+A ideia do *do-it-yourself* (faça-você-mesmo) começou com a
 proposta de comprar cadeiras desmontáveis em supermercados. As
-
-O que é Design
-
 poltronas Pegue-Leve poderiam ser vendidas em caixas, reunindo
 vantagens como o pequeno volume do material quando desmontadas e sua resistência quando montadas.
+
 Oscar Niemeyer, com a construção de Brasília, iniciada em
 fevereiro de 1957, faz transpirar pela primeira vez a nível internacional o *design* moderno brasileiro em meio ao que se acostumou
 a chamar de bossa nova da arquitetura. Trabalhando sempre com
@@ -802,62 +761,52 @@ ter de funcional, mas também por sua contribuição estética ao
 (1887-1965), Oscar cria também sua cadeira conhecida como
 Módulo, atingindo um padrão de destaque por ser sustentada apenas por uma haste de ferro.
 
-53
-
-54
-
-Wilton Azevedo
-
+\imagem grande 54
 Sala de estar americana da década de 50.
 
-56
+\imagem grande 55
+## Objetos para usar e pensar
 
-Wilton Azevedo
 English Times italic, corpo 11, entrelinha 12
 
 Sob a influência do dadaísmo e principalmente
-da Pop Art nas décadas de 50 e 60, surge a ideia da
+da *Pop Art* nas décadas de 50 e 60, surge a ideia da
 pós-modernidade, uma espécie de colagem da história da arte. Parecendo mais um aglomerado
 iconográfico, esse pastiche leva em frente a ideia de
 retirar o novo do moderno, o pós-moderno.
+
 O lugar onde ficou mais evidente esse tipo de estilo foi na arquitetura. É nela que se vai concentrar
 a maior parte das discussões sobre o que é a pósmodernidade. Robert Venturi, um dos precursores do
 pós-moderno, começou sua pesquisa ao observar a
 arquitetura de Las Vegas, e desse trabalho ele extraiu a importância estética de se recuperar a luz
 neon em contraste com o concreto aparente.
+
 O que fica evidente é que a ideia de um *design*
 pós-moderno se coloca em oposição à ideia da escola Bauhaus. O *design* assume uma função oposta
 ao funcional, lança-se à procura de uma nova estética bem-humorada que denominou de não-estética, assumindo a característica de *design* “colagem” do passado.
-Quem reforça essa ideia ainda lidando com a ar-
 
-O que é Design
-
-quitetura é Charles Moore, basicamente o precursor do *design* pós-moderno na arquitetura. Seu trabalho mais famoso foi o projeto da Piazza d’Italia
+Quem reforça essa ideia ainda lidando com a arquitetura é Charles Moore, 
+basicamente o precursor do *design* pós-moderno na arquitetura. Seu trabalho mais famoso foi o projeto da Piazza d’Italia
 em Nova Orleans na década de 70, utilizando uma
 mistura de estilos de colunas gregas com contornos
 e frisos de neon em toda a fachada entre as colunas
 e capitéis. As estruturas de metal aparente e as grossas tubulações coloridas representam a perfeita
 integração entre o homem e a era da máquina, já
 terminada. O Centro Beaubourg, conhecido como
-Centro Georges Pompidou, em Paris, é um dos grandes exemplos dessa colagem visual. Torna-se importante a relação entre o designer e o passado, o *design*
+Centro Georges Pompidou, em Paris, é um dos grandes exemplos dessa colagem visual. Torna-se importante a relação entre o *designer* e o passado, o *design*
 moderno e o pós-moderno, tendo dentro de cada um,
 através dos objetos, um verdadeiro contraste entre o
-que já foi e o que virá. Os designers começam então
-a domesticar os objetos, que são produzidos na forma de móveis coloridos, como alegorias, alguns levando até objetos eletrônicos com luz neon. Só na
+que já foi e o que virá. Os *designers* começam então
+a domesticar os objetos, que são produzidos na forma de móveis coloridos, como alegorias, 
+alguns levando até objetos eletrônicos com luz neon. Só na
 década de 80, entre os prédios que reuniam a ideia
 pós-moderna, é que surge o prédio da AT & T, em
-Nova York. Os designers Philip Johnson e John Burge
-
-57
-
-58
-
-Wilton Azevedo
-
+Nova York. Os *designers* Philip Johnson e John Burge
 realizaram esse projeto em 1983 para servir de exemplo da utilização do pós-moderno na arquitetura
 comercial. Começa então uma série de ideias extravagantes, e nem o estilo renascentista escapa. O prédio da General Foods, num subúrbio nova-iorquino,
 utiliza-se da ideia renascentista para propor uma
 solução estética.
+
 Há várias combinações entre o velho e o novo.
 Um condomínio em Boston, por exemplo, é projetado como se fosse ruínas, baseadas nos *designs* de
 igrejas neo-romanescas, que tentam combinar seu
@@ -867,33 +816,23 @@ perceber que é de fundamental importância a reunião de materiais de diversas 
 por exemplo, prédios com aspectos curiosos, onde
 as armações são de ferro intercaladas com mármore
 e, às vezes, colunas romanas.
+
 Mas a ideia radical fica por conta de Michael
 Graves, que realiza um projeto dentro do conceito
 da arquitetura monumental para a Humana Corp.,
-em Louisville. Uma densa colagem de texturas e ele-
-
-O que é Design
-
-mentos luxuosos torna este prédio uma torre
+em Louisville. Uma densa colagem de texturas e elementos luxuosos torna este prédio uma torre
 escultural, a concretização da invenção arquitetônica. Dentro desses aspectos de renovação estética
 confrontando presente e passado há também o confronto Oriente-Ocidente. E pode-se dizer que é nesse clima de confronto que são baseados os cenários
 do filme Mishima (que conta a trajetória do poeta
 japonês), para o qual móveis de laca servem como
 pano de fundo das histórias do poeta, misturandose com o estilo oriental americano.
 
-O *design* Europop
+### O *design* Europop
 
 O começo dos anos 60 é marcado pela cultura
 pop. Sua influência no *design* foi de substancial importância, porque o cotidiano é agora a grande
 musa inspiradora da arte. Artistas como Andy
 Warhol, Roy Lichtenstein, entre tantos, passam a usar
-
-59
-
-60
-
-Wilton Azevedo
-
 a linguagem da comunicação de massa, assumindo
 suas características não só como arte mas principalmente como uma cultura visual. A imagem do
 mundo urbano invade o mundo artístico e também o
@@ -903,75 +842,63 @@ Campbells pintada por Andy Warhol ou a bandeira
 dos EUA feita por Jasper Johns (de 1954) serão os
 elementos da pintura mais fortemente influenciadores
 do *design* Europop.
+
 Depois que os artistas pop americanos participaram da Bienal de Arte de Veneza na década de
 60, o *design* italiano começa a sofrer uma séria influência em seu comportamento. Se Mareei Duchamp,
 nos anos 20, já tinha introduzido o cotidiano como
-expressão artística (ready-made) para questionar o
+expressão artística (*ready-made*) para questionar o
 objeto em série, o neodadaísmo americano e europeu passou a ver na atitude Dadá a nova manifestação do objeto em série.
+
 A Itália foi um dos grandes beneficiados com essa
-atitude. A Faculdade de Arquitetura de Florença for-
-
-O que é Design
-
-mou na década de 60 dois grandes grupos de jovens designers que passaram a se chamar Arehizoom
+atitude. A Faculdade de Arquitetura de Florença formou na década de 60 dois 
+grandes grupos de jovens designers que passaram a se chamar Arehizoom
 Associati e Superstudio. Envolvidos por um período
 de novas experiências no campo do *design*, os grupos procuravam investigar o surgimento de uma nova
 estética através da linguagem pop européia. Essas
 duas escolas montariam duas exposições importantes que se intitularam Superarchitecture, onde mostravam móveis e projetos arquitetônicos influenciados pela cultura pop e esboçavam uma das primeiras ideias do objeto pós-moderno.
+
 O *design* pós-moderno faz dos objetos uma nova
 intervenção estética utilizando-se das formas banais
 e vulgares para estabelecer o rompimento radical na
-lógica “forma e função“, formalizando o neo-kitsch.
+lógica “forma e função“, formalizando o neo-*kitsch*.
 A utopia deixa de ser realidade e assume uma postura na ideia de *design* – ao mesmo tempo que é alegoria, ele assume a posição de fenômeno natural.
+
 A ironia passa a ter um papel fundamental nessa
 época, admitindo projetos experimentais que o
 profissionalismo jamais teria permitido. Além disso,
 nos anos 60 e 70 a decoração torna a emergir no
-
-61
-
-62
-
-Wilton Azevedo
-
 cenário das pesquisas avançadas, para aproveitar
-a ideia de kitsch. Acompanhada da evolução e da
+a ideia de *kitsch*. Acompanhada da evolução e da
 prática de um *design* radical, surge o grupo italiano
 liderado por Alessandro Mendini, chamado Banal
 Designo Na Bienal de Veneza de 1980, juntamente
 com amigos, Mendini monta uma exposição intitulada
 Objeto Banal. São projetos de objetos que se parecem com escamas de peixe em cores cintilantes variadas. São objetos utilizados para estimular o dia-adia. Além de serem usados para demonstrar o seu
-significado também no código visual, o design dos
+significado também no código visual, o *design* dos
 objetos agora é usado para, através do conceito de
-kitsch, fazer surgir as características de um redesign,
+*kitsch*, fazer surgir as características de um *redesign*,
 ou seja, uma alteração do objeto existente.
-Em 1967, a revista alemã Domus publicou a primeira coleção de móveis de Ettore Sottsass Jr., um
+
+Em 1967, a revista alemã *Domus* publicou a primeira coleção de móveis de Ettore Sottsass Jr., um
 dos nomes mais importantes, quase um sinônimo do
 *design* italiano.
+
 A filosofia Memphis começou a colocar à prova
 a utilidade do objeto dentro da questão da não funcionalidade. Sottsass desenvolve pesquisas que subvertem o relacionamento tradicional dos móveis que
-
-O que é Design
-
 irão ocupar o espaço de uma casa. Em vez de propor um objeto altamente figurativo com funções autônomas, ele promove um novo tipo de comportamento
 para o móvel residencial. Para Sottsass não está em
 discussão o conforto. O valor emocional em relação
 ao objeto não é dado através de sua funcionalidade, mas através de seu nível de expressividade.
+
 Os objetos Memphis passam a ser caracterizados por levar em conta certos princípios pouco comuns, como cheiro e tatilidade. É um objeto que passa
 a ter uma presença perceptiva ao envolver-se espacialmente. O avanço tecnológico propiciou maiores
 possibilidades na tradução de formas e na inovação de uma linguagem cujo uso pode ser a resposta
 para o surgimento de novos grupos sociais.
 
-Funnyture
+### *Funnyture*
+
 Todos os móveis Memphis têm nome de hotel, são
 forrados em plástico estampado cujos padrões são
-
-63
-
-64
-
-Wilton Azevedo
-
 desenvolvidos pela própria escola, e seus objetos
 inutilitários são decorados com lâmpadas coloridas,
 além do confronto de materiais como mármore combinando com bronze, madeira com metal, vidro com
@@ -979,30 +906,32 @@ alumínio. A ideia memphisiana existe para livrar-se
 de uma retórica institucional, e chama seus próprios
 trabalhos de gíria suburbana. A escola Memphis abre
 uma discussão bastante prática sobre a funcionalidade do *design* encarado sob o ponto de vista do
-pós-moderno. Ela assume a função utópica da utilidade, tornando seus móveis um verdadeiro playground opcional na sala de estar.
+pós-moderno. Ela assume a função utópica da utilidade, tornando seus móveis um verdadeiro *playground* opcional na sala de estar.
+
 Na estante Carlton, por exemplo, os livros ficam
 todos inclinados, já que se acredita que é sua vontade original.
+
 É bom ressaltar que Ettore Sottsass surge no mercado de *design* após ter criado uma das primeiras
 máquinas de escrever portáteis de plástico para a
 Olivetti, em 1960, fato que pode provar o seu conhecimento prático sobre a funcionalidade tradicional.
-Mas o estilo Memphis não registra sua criatividade somente nos móveis. Acaba por influenci-
 
-O que é Design
-
-ar também a área da mídia impressa, onde a ideia
+Mas o estilo Memphis não registra sua criatividade somente nos móveis. Acaba por influenciar também 
+a área da mídia impressa, onde a ideia
 memphisiana torna seus impressos um jogo muito
 inteligente de sobre posições de retículas desenvolvidas com padronagens que através da sua
 diagramação criam uma nova dimensão de espaço impresso.
+
 Com isso, a Itália cria iniciativas na formação de
-novos designers, divulgando assim para o resto do
+novos *designers*, divulgando assim para o resto do
 mundo seu novo estilo de pensar um projeto, colocando lado a lado diferentes culturas domésticas
 cuja função pode ser explicada apenas na
 ergonomia ou em termos funcionais.
+
 Esse conceito, na Europa, não se restringe somente aos italianos, mas também encontra aliados
 no *design* sueco. Um dos maiores escritórios de projetos e *design* da Suécia assume, na década de 80, o
-humor em seu *design*. Olle Anderson, um dos principais designers suecos, deixa clara a sua ideia sobre
+humor em seu *design*. Olle Anderson, um dos principais *designers* suecos, deixa clara a sua ideia sobre
 os objetos que se fazem não só através do estímulo
-da função, mas principalmente do humor, chamando-os de happy *design* ou happy furniture.
+da função, mas principalmente do humor, chamando-os de *happy design* ou *happy furniture*.
 
 65
 
@@ -1012,6 +941,9 @@ Wilton Azevedo
 
 Objetos de Alessandro Mendini baseados em escamas
 de peixe.
+
+\imagem grande 67
+## Alguns usos do design
 
 68
 
@@ -1156,6 +1088,9 @@ Wilton Azevedo
 Capa do livro Tiger! Tiger!, de Alfred Bester, feita
 em computação gráfica por Wilton Azevedo em
 equipamento Alias/1.
+
+\imagem grande 75
+## Design cultural
 
 76
 
@@ -1336,7 +1271,7 @@ saída.
 
 87
 
-indicações
+# Indicações
 para
 leitura
 
