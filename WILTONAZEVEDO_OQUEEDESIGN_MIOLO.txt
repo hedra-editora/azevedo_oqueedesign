@@ -39,6 +39,7 @@ Rua Mourato Coelho, 111 - Pinheiros
 CEP 05417-010 - São Paulo - SP
 www.editorabrasiliense.com.br
 
+<!-- Dedicatória -->
 Para o nenem...
 
 \imagem grande 7
@@ -51,7 +52,7 @@ palavras com novo significado a cada dia, o mundo com suas
 transformações faz surgir novos significados e, para eles, surgem novas palavras que tentam significar o que o homem está
 tentando compreender. Assim acontece com a palavra *design*.
 
-O termo *design* tem aparecido constantemente no nosso diaa-dia, representando parte de um novo vocabulário. Muitas vezes
+O termo *design* tem aparecido constantemente no nosso dia-a-dia, representando parte de um novo vocabulário. Muitas vezes
 pode significar algo novo que esteja aparecendo no mercado ou
 mesmo um novo estilo que é lançado por um novo mito, ou ainda,
 aparece quando queremos nos referir a algo que esteja na moda
@@ -268,7 +269,7 @@ Mackmurdo deveria recorrer a um *designer*.
 Porém, não foi só na ilustração que a *Art
 Nouveau* teve sucesso, mas também na confecção
 de objetos de vidro, o ferro ornamentado na arquitetura, madeira trabalhada como troncos de árvore para os móveis, e os metais para o desenho
-de jóias.
+de joias.
 
 Os vidros nessa época eram feitos de formas
 onduladas, dando a ideia de que estavam derretendo nas mãos. Surgem os vidros decorados e
@@ -825,7 +826,7 @@ escultural, a concretização da invenção arquitetônica. Dentro desses aspect
 confrontando presente e passado há também o confronto Oriente-Ocidente. E pode-se dizer que é nesse clima de confronto que são baseados os cenários
 do filme Mishima (que conta a trajetória do poeta
 japonês), para o qual móveis de laca servem como
-pano de fundo das histórias do poeta, misturandose com o estilo oriental americano.
+pano de fundo das histórias do poeta, misturando-se com o estilo oriental americano.
 
 ### O *design* Europop
 
@@ -854,7 +855,7 @@ atitude. A Faculdade de Arquitetura de Florença formou na década de 60 dois
 grandes grupos de jovens designers que passaram a se chamar Arehizoom
 Associati e Superstudio. Envolvidos por um período
 de novas experiências no campo do *design*, os grupos procuravam investigar o surgimento de uma nova
-estética através da linguagem pop européia. Essas
+estética através da linguagem pop europeia. Essas
 duas escolas montariam duas exposições importantes que se intitularam Superarchitecture, onde mostravam móveis e projetos arquitetônicos influenciados pela cultura pop e esboçavam uma das primeiras ideias do objeto pós-moderno.
 
 O *design* pós-moderno faz dos objetos uma nova
@@ -1002,7 +1003,7 @@ Nos EUA existe hoje uma associação de especialistas em CG conhecida como SIGGR
 lnterest Group on Computer Graphics), que premia
 os melhores *designs* efetuados em CG.
 
-Na Expo Center Tsukuba 85, no Japão, criouse um espaço chamado Art & Technology, onde
+Na Expo Center Tsukuba 85, no Japão, criou-se um espaço chamado Art & Technology, onde
 foram exibidas várias possibilidades de desenho industrial dentro da computação gráfica.
 
 A maior revolução a nível de CG foi vista no
