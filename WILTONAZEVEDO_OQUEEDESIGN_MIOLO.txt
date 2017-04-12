@@ -933,98 +933,94 @@ humor em seu *design*. Olle Anderson, um dos principais *designers* suecos, deix
 os objetos que se fazem não só através do estímulo
 da função, mas principalmente do humor, chamando-os de *happy design* ou *happy furniture*.
 
-65
-
-66
-
-Wilton Azevedo
-
-Objetos de Alessandro Mendini baseados em escamas
-de peixe.
+\imagem grande 66
+Objetos de Alessandro Mendini baseados em escamas de peixe.
 
 \imagem grande 67
 ## Alguns usos do design
 
-68
-
-Wilton Azevedo
 Univers bold, corpo 11, entrelinha 12
 
-Neon *design*
+### *Neon design*
+
 Com a era pós-moderna recuperaram-se os efeitos da luz neon.
+
 No começo do século, um francês chamado
 George Claud pesquisava um método que produzisse uma luz com maior durabilidade, chamada de
 luz de longa vida. Algum tempo depois, ela é
 introduzida nos EUA, sendo usada principalmente
 em cartazes de cinema, bares e cassinos.
-O neon *design* possibilitou criar objetos com movimento e ritmo, como um grafitti luminoso. É interessante notar que sua linguagem cinética obtida
-através de movimentos seqüenciais nos faz lembrar uma espécie de cinema de animação.
+
+O *neon design* possibilitou criar objetos com movimento e ritmo, como um *grafitti* luminoso. 
+É interessante notar que sua linguagem cinética obtida
+através de movimentos sequenciais nos faz lembrar uma espécie de cinema de animação.
+
 Nos Estados Unidos o neon tem uma presença
 tão marcante no desenvolvimento do *design*, que
 em Los Angeles foi fundado o Museu de Neon Art,
-recuperando a maioria dos displays famosos que
+recuperando a maioria dos *displays* famosos que
 enchem as ruas das cidades americanas.
+
 O que chamamos de *design* pode também ser
 entendido pelo próprio percurso da luz, não só neon,
 mas em luminárias, por exemplo. A luz também é
 informação de formas, movimento e cria um espaço conforme é projetada.
+
 O cenário pode às vezes ser um só, mas,
-
-O que é Design
-
 conforme a posição da luz ou dos contornos feitos pelo neon, consegue-se um novo significado
 cênico.
 
-Computer Graphics
+### Computer Graphics
+
 Partindo do conceito de um *design* cinético
-nos deparamos com a linguagem do computer
-graphics (CG) ou computer designo Nos filmes,
+nos deparamos com a linguagem do *computer
+graphics* (CG) ou *computer designo*. Nos filmes,
 todos os efeitos visuais, como tamanho, forma
 e superfície, podem ser executados por CG, além
 dos movimentos que exigem articulações, textura como efeitos de vidro, metal, mármore e pontos de luz.
+
 O CG vem ganhando novos terrenos no campo
 do *design* gráfico. Já é possível hoje diagramar
-revistas, elaborar layouts e protótipos de embalagens ou mesmo animação em 3D (tridimensional),
-tudo isso executado por uma pessoa o designer,
+revistas, elaborar *layouts* e protótipos de embalagens ou mesmo animação em 3D (tridimensional),
+tudo isso executado por uma pessoa o *designer*,
 na posição de usuário. Seria impossível hoje pensar a imagem em movimento ou parada em televisão sem a utilização do computador. A tendência
 é, com o tempo, formar um profissional que entenda tanto de desenho como de cinema, e principalmente de iluminação, uma vez que é necessária, ao
 profissional que opera um computador gráfico, praticamente toda a informação ligada à área das artes
 gráficas e à imagem em movimento.
 
-69
-
-70
-
-Wilton Azevedo
-
 Outro grande beneficiado com isso foi a TV,
 que, com o auxílio de outro computador – o gerador de caracteres – pôde recuperar a sua linguagem bidimensional para programação visual na escrita de textos e legendas na tela.
+
 Antes dos geradores de caracteres, a TV operava com uma arte-final tipográfica para ser gravada
 em vídeo, pois a linguagem da TV de então era de
 cenário.
+
 Foi com os sintetizadores de imagem que a TV
 ganhou uma característica gráfica, podendo utilizar-se de recursos como distorção de imagens geradas pelo ADO.
+
 Nos EUA existe hoje uma associação de especialistas em CG conhecida como SIGGRAPH (Special
 lnterest Group on Computer Graphics), que premia
 os melhores *designs* efetuados em CG.
+
 Na Expo Center Tsukuba 85, no Japão, criouse um espaço chamado Art & Technology, onde
 foram exibidas várias possibilidades de desenho industrial dentro da computação gráfica.
+
 A maior revolução a nível de CG foi vista no
-filme Max Headroom, um animador de programas
+filme *Max Headroom*, um animador de programas
 do Channel 4 na Inglaterra, que é todo projetado
 por computador.
-Max Headroom é o resultado de uma das mais
+
+*Max Headroom* é o resultado de uma das mais
 avançadas técnicas de CG. Ele anima programas,
-promove concursos, tudo através de um sistema de voz tipo Vocoder, usado pela artista perfor-
-
-O que é Design
-
-mática Laurie Anderson. Esse sistema permite
+promove concursos, tudo através de um sistema de voz tipo Vocoder, usado pela artista performática 
+Laurie Anderson. Esse sistema permite
 que a voz seja distorcida tanto para grave quanto para agudo sem que se perca o teor da comunicação.
+
 O mito do futuro será computadorizado, mas
 continuará loiro de olhos azuis.
 
-Photodesign
+### *Photodesign*
+
 Mas não foi apenas no campo da eletrônica que
 a imagem sofreu avanços. Com a evolução da fotografia através de filmes mais sensíveis, e mesmo
 com o fotolito a laser (por computador, o Scanner),
@@ -1032,30 +1028,26 @@ um grupo chamado Hipgnosis desenvolveu pesquisas no campo do *photodesign*. Esse
 Powell, Peter Christopherson e Storm Thorgerson.
 *Photodesign* são montagens que podem ser feitas
 tanto através de ampliações fotográficas quanto
-através do fotolito, procurando recriar os ambientes e situações já fotografados. É como um take
+através do fotolito, procurando recriar os ambientes e situações já fotografados. É como um *take*
 extraído de um filme e somado aos recursos gráficos disponíveis.
+
 Um dos pontos fortes desse trabalho foi o
-photodesign feito para o grupo Foreigner, criado
+*photodesign* feito para o grupo Foreigner, criado
 para o álbum Silent Partner em 1981. Partindo
-do desenho do formato de um binóculo, o Hipgnosis cria situações diversas através de monta-
+do desenho do formato de um binóculo, o Hipgnosis cria situações diversas através de montagens 
+onde a ilustração é a própria colagem. Talvez nesse trabalho esteja a síntese do significado de *photodesign*.
 
-71
+### O protótipo *design*
 
-72
-
-Wilton Azevedo
-
-gens onde a ilustração é a própria colagem. Talvez nesse. trabalho esteja a síntese do significado de photodesign.
-
-O protótipo *design*
 Hoje o mundo do *design* volta-se para o que foi
-chamado de handicraft design, ou seja, o *design*
+chamado de *handicraft design*, ou seja, o *design*
 artesanal. É um fenômeno do diálogo que volta a
 ser estabelecido entre o sistema de produção em
-série e o objeto artesanal. Os designers buscam
+série e o objeto artesanal. Os *designers* buscam
 agora o valor do trabalho artesanal na descoberta
 de novos padrões de organização baseados numa
 redescoberta individual.
+
 Leo Krier, na Escola de Luxemburgo, por exemplo, faz reaparecer modelos que sugerem a ideia de
 uma cidade artesanal, cujos monumentos são usados para reconstruir uma paisagem urbana. Essa
 ideia de fazer reaparecer o trabalho artesanal na
@@ -1064,251 +1056,209 @@ como Gallery of Copism, do Estúdio Alchemya,
 onde quadros famosos são copiados a mão. Através dessa proposta, Mondrian e Kandinsky recebem o tratamento de uma cópia artesanal. É uma
 ideia radical, contrária ao produto industrial, mais
 uma possibilidade de material para se recriar o protótipo do final do século XX.
+
 Essa linguagem de protótipo tenta novamente
-
-O que é Design
-
 dialogar com a linguagem em série. Nesse caso,
 entretanto, o protótipo já é o objeto utilitário.
-Um dos papéis mais importantes do handicraft
-*design* vem sendo desenvolvido pelo Estúdio
-Alchemya, que no fim da década de 70 apresentou em Milão um dos primeiros protótipos considerados handicraft, intitulado Coleção Bauhaus.
+
+Um dos papéis mais importantes do *handicraft
+design* vem sendo desenvolvido pelo Estúdio
+Alchemya, que no fim da década de 70 apresentou em Milão um dos primeiros protótipos considerados *handicraft*, intitulado Coleção Bauhaus.
 Toda a coleção foi projetada e desenvolvida por
 Ettore Sottsass Jr., Alessandro Mendini e Michele
-De Lucchi, e recebeu o nome de New Handicraft,
-para o qual uma possível tradução seria Novo
-Protótipo.
+De Lucchi, e recebeu o nome de *New Handicraft*,
+para o qual uma possível tradução seria *Novo
+Protótipo*.
 
-73
-
-74
-
-Wilton Azevedo
-
-Capa do livro Tiger! Tiger!, de Alfred Bester, feita
-em computação gráfica por Wilton Azevedo em
-equipamento Alias/1.
+\imagem grande 74
+Capa do livro Tiger! Tiger!, de Alfred Bester, feita em computação gráfica por Wilton Azevedo em equipamento Alias/1.
 
 \imagem grande 75
 ## Design cultural
 
-76
-
-Wilton Azevedo
 Garamond 49 italic, corpo 12, entrelinha 13
 
 A moda institucionalizou o *design*, é a década
 de 50 sendo redesenhada com o neoplasticismo dos
 anos 80, tendo suas cores primárias cedido lugar
 para as cores psicodélicas que se obtinham por intermédio do *design* das drogas da década de 70.
-James Dean, o herói playboy dos anos 50, com
+
+James Dean, o herói *playboy* dos anos 50, com
 sua jaqueta de couro fez com que muitos jovens
 daquela época fossem contrários aos tons pastel das
 flâmulas das universidades, o símbolo do discurso
-ufanista americano. Era o início do drop out.
+ufanista americano. Era o início do *drop out*.
+
 O He-Man pode ser o Flash Gordon do futuro,
 mas o *design* de sua nave barroca nos indica que
 Alex Raymond, ao projetar Flash Gordon, pertencia a um mundo muito mais distante do que podíamos imaginar. O futuro do He-Man é agora.
-O close das novelas brasileiras transforma-se
+
+O *close* das novelas brasileiras transforma-se
 em capa de disco – assim, o consumidor identifica
 no *design* impresso a imagem da TV ligada. Se
 antes o meio impresso foi referencial de *design* para
 a TV, atualmente a posição se inverte.
-Os punks acham as cidades inúteis, e por isso
+
+Os *punks* acham as cidades inúteis, e por isso
 vivem na sua inutilidade. Pode ser que nessa atitude a inutilidade utópica do pós-moderno já não
 tivesse mais sentido nos porões da cidade.
 
-O que é Design
-
-Os punks surgem do *design* da não-reciclagem;
+Os *punks* surgem do *design* da não-reciclagem;
 é o que não serve que acaba servindo. Surge naturalmente dos arranjos do lixo, do que sobra dos
 centros urbanos, é um *design* baseado no refugo.
+
 O *design* popular está nas ruas por falta de espaço na mídia cultural. Para se dizer alguma coisa
 não basta somente planejar. E sem dúvida nenhuma necessário criar meios para obter espaço nos
 veículos. É na produção de linguagem que está a
 política da veiculação de informação visual e verbal através do *design*.
+
 A atitude performática que pertencia a um grupo restrito da vanguarda está nos muros e nas ruas.
 Qualquer um faz o seu *design* performático, um
 estado intencional da escrita.
+
 O *design* cultural vira moda logo, e este é o
-grande problema para as classes que precisam aparecer socialmente. A griffe é a assinatura do objeto em série. O Giotto pós-renascentista é Pierre
+grande problema para as classes que precisam aparecer socialmente. A *griffe* é a assinatura do objeto em série. O *Giotto* pós-renascentista é Pierre
 Cardin com seu *design* de moda que não sai da
 moda, já nasceu reciclado.
+
 O *design* se dá nas passarelas e ocupa lugar nas
 ruas. Tudo é absorvido rapidamente, a moda
-
-77
-
-78
-
-Wilton Azevedo
-
 criando *design* para pegar avião, trem, metrô, ir
 a festa, estudar e dormir. O mundo visual não
 nos deixa em paz nem quando fechamos os olhos
 para dormir: sonhamos com a funcionalidade do
 nosso ego.
+
 Espaços alternativos são uma necessidade urbana. A mídia tradicional passa a não explorar tanto a linguagem intercódigo, e volta-se para o programa de auditório. O *design* dessa época só existia nos cenários pintados das comédias; assim, o
-*design* do espaço alternativo é a pirataria. A Pop
-Art se inspirou no *design* do consumo, tornando a
+*design* do espaço alternativo é a pirataria. A *Pop
+Art* se inspirou no *design* do consumo, tornando a
 vida das décadas de 50 e 60 mais hollywoodiana
 nos supermercados. A obtenção do produto é o final feliz. Os designers da década de 80 não se inspiram no produto, mas naquele que consome.
+
 A política do corpo dá lugar ao *design* da mente. A informação viabiliza o tempo, e existe um
 tipo de *design* para cada coisa (inclusive para se
 matar o tempo).
+
 O meio ambiente é o meio e a mensagem de
-
-O que é Design
-
-Marshall McLuhan, O mundo urbano nos torna
+Marshall McLuhan, o mundo urbano nos torna
 cúmplices nessa relação cotidiana, e quando se trata de sobreviver, temos que pensar num *design*
 cultural. Mesmo quando o homem agia por instinto havia uma intenção da preservação da espécie.
 A sobrevivência.
-Os programas de TV cedem lugar aos personagens computadorizados. No filme Max
-Headroom, o computador se espelha na imagem
+
+Os programas de TV cedem lugar aos personagens computadorizados. No filme *Max
+Headroom*, o computador se espelha na imagem
 do homem na TV. No mundo dos objetos o convívio é rápido. Os colecionadores ainda correm
 atrás da imagem original, mas o mercado da reprodução já não é marcado pelo falso – esta é a
 filosofia do *design*.
+
 Não há mais real ou falso. Depois do videotape,
 a TV recupera a sua linguagem do aqui-e-agora com
-um jornalismo in live. Notícia não é só o que acontece na TV, mas sim tudo o que acontece. A TV
+um jornalismo *in live*. Notícia não é só o que acontece na TV, mas sim tudo o que acontece. A TV
 ligada 24 horas passa a ser o acontecimento da TV,
-
-79
-
-80
-
-Wilton Azevedo
-
 o meio através dos meios. Ser astro não é estar na
 TV é ser a TV.
-O animador computadorizado cumpre a função dos talking heads – aqueles que lêem qualquer
+
+O animador computadorizado cumpre a função dos *talking heads* – aqueles que leem qualquer
 notícia sem uma só expressão – no *design* da seriedade. Um homem projetado para dar confiabilidade li leitura de uma notícia.
+
 O mundo via satélite traz a TV para dentro
 das casas, e os artistas eletromultimídia criam
-uma linguagem para ser vista nas TVs dos museus. A TV fora do ar (sign off) informa que é
+uma linguagem para ser vista nas TVs dos museus. A TV fora do ar (*sign off*) informa que é
 um veículo, é a possibilidade de estar lidando
 com um índice que não é mais ruidoso, é linguagem. O *design* questiona o espaço. A cultura
 exige espaço para poder falar de si mesma, para
 se mostrar a espécie como uma possibilidade de
 mutação. Não tenho dúvida de que os homens
-dos anos 30 foram rigorosos demais com a plás-
-
-O que é Design
-
-tica humana criada por Mondnan para que nos
+dos anos 30 foram rigorosos demais com a plástica humana criada por Mondnan para que nos
 sentássemos. Pollock foi a desintegração do átomo, artístico. É um não ao racional que o final
 do século XX não é.
+
 A tela salta para o espaço aberto e invade a mente informatizada, e a eletrônica imita os neurônios
-do homem com a criação dos chips, que de tão pequenos cabem num polegar.
+do homem com a criação dos *chips*, que de tão pequenos cabem num polegar.
+
 A espécie humana corre atrás do ócio, criando
 máquinas que façam todo o trabalho redundante
 da humanidade.
+
 O que é *design*?
+
 Talvez esta pergunta não tenha mais importância no futuro, pois para se manter vivo o homem
 vai ter que se apoderar do simulacro que ele criou.
 A importância dessa informação só vai ter sentido
 para cobrir os poucos espaços que sobraram.
 
-81
-
-82
-
-Wilton Azevedo
-
 Como disse MarceI Breuer, “um dia, quem sabe,
-nos sentaremos sobre cadeiras de ar sólido“:
-Se o design sempre questionou o espaço, pode
+nos sentaremos sobre cadeiras de ar sólido“.
+
+Se o *design* sempre questionou o espaço, pode
 ser que o homem em direção ao futuro comece a
 redesenhar o ar que nos resta para que possamos
 sentar, e quem sabe possamos ter o tempo desejado para a criação. Mas para o homem pós-moderno, antipresente e neofuturo a criação é um estalo, a linguagem é consumida diretamente na sua
 nascente e é espalhada pelo mundo em forma de
 propaganda.
 
-O que é Design
-
 Neste ponto o *design* cultural adquire vários
 aspectos, e entre eles passa a ser a fonte geradora
 de uma antropologia que não está mais debaixo
 da terra.
+
 Há um ditado taoísta que diz que o artista deve
 ser responsável pela influência que ele exerce. E
 através dessa influência que o *design* vem dialogando com o homem desde o princípio de sua existência. Se não cabe mais a discussão do objeto utilitário ou inutilitário, vale pensar o *design* em
-
-83
-
-84
-
-Wilton Azevedo
-
-forma de redesign – a criação do objeto através
+forma de *redesign* – a criação do objeto através
 dele mesmo.
+
 Sempre se questionou o lado vicário da vida – a
 capacidade de simular a vivência. O grande problema centrava-se em saber se estamos em contato
 com a vida ou se é apenas a reprodução da reprodução social através dos veículos de comunicação,
-
-O que é Design
-
 mas uma coisa é certa: a lógica do futuro fez a linguagem pertencer a tudo, e basta estar vivo para
 que se tenha informação.
-Se ligamos a TV, lemos o mundo nos impressos vemos out doors dos nossos carros, temos a
+
+Se ligamos a TV, lemos o mundo nos impressos, vemos *out doors* dos nossos carros, temos a
 impressão de que tudo que o homem adquiriu
-
-85
-
-86
-
-Wilton Azevedo
-
 através da criação até hoje tem um rosto, o rosto da cópia. O protótipo já é a linguagem da
 reprodução.
+
 Cabe pensar que planejar o futuro é ter consciência do caos.
 
-O que é Design
+O *design* é sempre uma forma de planejar uma saída.
 
-O *design* é sempre uma forma de planejar uma
-saída.
-
-87
-
-# Indicações
-para
-leitura
-
-90
-
-Wilton Azevedo
+# Indicações para leitura
 
 English Times, corpo 11, condensado, entrelinha 12
+
 Gostaria de propor uma outra maneira de pensar este capítulo
 da coleção.
+
 Tratando de *design*, o assunto não se restringe somente a uma leitura
 verbal, mas é importante um acompanhamento das imagens, porque também é preciso ver para ter uma formação visual.
+
 Resolvi então dividir estas indicações para leitura em uma indicação
 verbal e outra visual, ou seja, livros para ler lendo e para ler vendo. Livros
 para ler lendo:
-James Craig, Produção Gráfica, ** São Paulo, Editora Mosaico. Trata
+
+James Craig, *Produção Gráfica*, ** São Paulo, Editora Mosaico. Trata
 seriamente a evolução dos meios gráficos, desde as primeiras impressões
-em madeira até o sistema de fotolitografia. Lewis Mumford, A Cidade na
-História, Suas Transformações e Perspectivas, *** Martins Fontes. Esta
+em madeira até o sistema de fotolitografia. Lewis Mumford, *A Cidade na
+História, Suas Transformações e Perspectivas*, *** Martins Fontes. Esta
 leitura pode auxiliar na consulta da evolução das cidades, se você se
-interessa por *design* urbano. Victor Papanek, *Design* for the Real World, **
+interessa por *design* urbano. Victor Papanek, *Design for the Real World*, **
 Thames and Hudson. Fundamental para quem quer não só pesquisar *design*
-do ponto de vista estético, mas principalmente o *design* com vistas a discutir o meio ambiente. Nikolaus Pevsner, Os Pioneiros do Desenho Moderno,
+do ponto de vista estético, mas principalmente o *design* com vistas a discutir o meio ambiente. Nikolaus Pevsner, *Os Pioneiros do Desenho Moderno*,
 ** Martins Fontes. Discute o problema do desenho industrial de John
-Ruskin a Walter Gropius. Nikolaus Pevsner, Origens da Arquitetura Moderna e do *Design*, ** Martins Fontes. Trata da influência que os objetos
+Ruskin a Walter Gropius. Nikolaus Pevsner, *Origens da Arquitetura Moderna e do Design*, ** Martins Fontes. Trata da influência que os objetos
 tiveram em função do avanço da arquitetura.
+
 Agora, os livros para ler vendo:
+
 Bauhaus, *** Instituto Cultural de Relações Exteriores, Stuttgart, 1974.
-Cara Greenberg, Mid-Century Modern, *** Nova York, Harmony Books.
+Cara Greenberg, *Mid-Century Modern*, *** Nova York, Harmony Books.
 Tanaka Ikko, Koile Kazuco, Japan Design, São Francisco, Chronicle Books.
+Bruno Munari, *Design e Comunicação Visual*, * Martins Fontes. Andrea
+Branzi, *The Hot House, Italian New Wave Design*, ** Thames and Hudson
+Ltd. Akiko Busch and Editor of Industrial Design Magazine, *Product Design*,
+** Nova York, PBC International.
 
-O que é Design
-
-Bruno Munari, Design e Comunicação Visual, * Martins Fontes. Andrea
-Branzi, The Hot House, Italian New Wave Design, ** Thames and Hudson
-Ltd. Akiko Busch and Editor of Industrial Design Magazine, Product Design,
-** Nova York, PBC InternationaI.
 Infelizmente, é muito reduzido o número de livros para ler vendo
 editados no Brasil, o que pode dificultar a consulta e também o acesso.
 
@@ -1316,25 +1266,24 @@ editados no Brasil, o que pode dificultar a consulta e também o acesso.
 ** Regular
 *** Difícil
 
-91
-
-92
-
-Wilton Azevedo
-
 English Times, corpo 10, entrelinha 12
 
-BIOGRAFIA
-Sou artista plástico, designer e professor, pós-graduado em Comunicação e Semiótica pela PUC-SP. Realizei exposições individuais e participei de coletivas. Sou
+\imagem média 92
+
+## Biografia
+
+Sou artista plástico, *designer* e professor, pós-graduado em Comunicação e Semiótica pela PUC-SP. Realizei exposições individuais e participei de coletivas. Sou
 programador visual em estúdio próprio e titular da cadeira de Produção Gráfica e Programação Visual na
 Escola Superior de Propaganda e Marketing.
-Escrevo colunas semanais sobre design em jornais
-da grande imprensa, e em revistas como Design & Interiores, e estou me preparando para lançar esses textos em forma de livro.
+
+Escrevo colunas semanais sobre *design* em jornais
+da grande imprensa, e em revistas como *Design & Interiores*, e estou me preparando para lançar esses textos em forma de livro.
+
 Desde 1986, venho desenvolvendo trabalho pioneiro
 na área de computação gráfica aplicada às artes plásticas e à editoração. Dentre os trabalhos realizados, a
-capa de Tiger! Tiger!, da Brasiliense.
+capa de *Tiger! Tiger!*, da Brasiliense.
 
-Coleção Primeiros Passos
+Coleção Primeiros Passos
 Uma Enciclopédia Crítica
 ABORTO
 AÇÃO CULTURAL
@@ -1380,10 +1329,8 @@ COMPUTADOR
 COMUNICAÇÃO
 COMUNICAÇÃO EMPRESARIAL
 COMUNICAÇÃO RURAL
-COMUNICAÇÃO ECLESIAL
-DE BASE
+COMUNICAÇÃO ECLESIAL DE BASE
 COMUNIDADES ALTERNATIVAS
-
 CONSTITUINTE
 CONTO
 CONTRACEPÇÃO
@@ -1431,9 +1378,6 @@ ESTRUTURA SINDICAL
 ETNOCENTRISMO
 EXISTENCIALISMO
 FAMÍLIA
-
-Coleção Primeiros Passos
-Uma Enciclopédia Crítica
 FANZINE
 FEMINISMO
 FICÇÃO
@@ -1481,7 +1425,6 @@ INTELIGÊNCIA ARTIFICIAL
 IOGA
 ISLAMISMO
 JAZZ
-
 JORNALISMO
 JORNALISMO SINDICAL
 JUDAÍSMO
@@ -1529,9 +1472,6 @@ OPINIÃO PÚBLICA
 ORIENTAÇÃO SEXUAL
 PANTANAL
 PARLAMENTARISMO
-
-Coleção Primeiros Passos
-Uma Enciclopédia Crítica
 PARLAMENTARISMO MONÁRQUICO
 PARTICIPAÇÃO
 PARTICIPAÇÃO POLÍTICA
@@ -1579,7 +1519,6 @@ RELAÇÕES INTERNACIONAIS
 REMÉDIO
 RETÓRICA
 REVOLUÇÃO
-
 ROBÓTICA
 ROCK
 ROMANCE POLICIAL
@@ -1622,5 +1561,3 @@ VIOLÊNCIA URBANA
 XADREZ
 ZEN
 ZOOLOGIA
-
-
